@@ -53,6 +53,12 @@ Currently studying JavaScript and TypeScript while building personal projects.
 
 ---
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Phel-lip&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=c9d1d9&icon_color=38BDF8" />
+</p>
+
+---
+
 ## ✦ Portfolio
 
 <div align="center">
