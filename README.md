@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Front-End Developer • Digital Games Student • UI Lover 📍 Brasil
+Front-End Developer • Digital Games Student • UI Lover 📍 Brasil <br>
 ☕ Focused on interactive interfaces, user experience and web applications
 
 Where there is desire, there will be a flame.
