@@ -10,6 +10,21 @@
 
 ---
 
+## ✦ About Me
+
+```txt
+Focused on front-end development, visual design and immersive interfaces.
+Currently studying JavaScript and TypeScript while building personal projects.
+```
+
+* 🎮 Digital Games student
+* 💻 Studying Front-End Development
+* 🎨 Interested in UI / UX and visual identity
+* ⚡ Building projects to improve HTML, CSS and JavaScript skills
+
+---
+
+
 ## 🛠️ Technologies & Tools
 
 <div align="center">
@@ -59,19 +74,6 @@
 </table>
 
 </div>
-## ✦ About Me
-
-```txt
-Focused on front-end development, visual design and immersive interfaces.
-Currently studying JavaScript and TypeScript while building personal projects.
-```
-
-* 🎮 Digital Games student
-* 💻 Studying Front-End Development
-* 🎨 Interested in UI / UX and visual identity
-* ⚡ Building projects to improve HTML, CSS and JavaScript skills
-
----
 
 ## ✦ Tech Stack
 
