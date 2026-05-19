@@ -5,22 +5,20 @@
 Front-End Developer • Digital Games Student • UI Lover 📍 Brasil <br>
 ☕ Focused on interactive interfaces, user experience and web applications
 
-Where there is desire, there will be a flame.
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="./dabi-yes.gif" width="100%" />
+<img src="./dabi-yes.gif" width="100%" height="260px" />
 
-<h2 style="margin-top:-120px; color:white;">
+<h2 style="margin-top:-110px; color:white;">
 Where there is desire,<br>
 there will be a flame.
 </h2>
 
-<br><br><br><br>
+<br><br><br>
 
 </div>
 
