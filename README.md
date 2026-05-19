@@ -8,6 +8,10 @@
   ☕ Focused on interactive interfaces, user experience and web applications
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2&section=header" width="100%" />
+</p>
+
 ---
 
 ## ✦ About Me
@@ -56,7 +60,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Phel-lip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=38BDF8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phel-lip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 ---
