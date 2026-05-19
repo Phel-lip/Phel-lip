@@ -12,10 +12,10 @@
 
 ## ✦ About Me
 
-```txt
 Focused on front-end development, visual design and immersive interfaces.
 Currently studying JavaScript and TypeScript while building personal projects.
-```
+
+---
 
 <div align="left">
 
