@@ -2,16 +2,18 @@
 
 <div align="center">
 
-Front-End Developer • Digital Games Student • UI Lover
+Front-End Developer • Digital Games Student • UI Lover 📍 Brasil
+☕ Focused on interactive interfaces, user experience and web applications
 
-Building interfaces with personality.
+Where there is desire, there will be a flame.
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Phellip&fontAlign=50&fontAlignY=40&color=0:0B1120,100:06B6D4&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Where there is desire,
+there will be a flame.&fontAlign=50&fontAlignY=40&color=0:0B1120,100:06B6D4&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <br>
