@@ -77,22 +77,16 @@ https://phel-lip.github.io/portfolio-dev/
 
 ---
 
-## ✦ Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Phel-lip&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7DD3FC&line=38BDF8&point=FFFFFF" width="95%" />
-
-</div>
-
----
-
 ## ✦ Contact
 
 <div align="center">
 
 <a href="https://github.com/Phel-lip">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/thassoholanda/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
