@@ -68,7 +68,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
 ## ✦ Portfolio
 
 <p align="center">
-  <img src="./preview-portfolio.png" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phel-lip&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
