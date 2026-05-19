@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
+</p>
+
 <h1 align="center">Phellip</h1>
 
 <p align="center">
@@ -8,11 +12,9 @@
   ☕ Focused on interactive interfaces, user experience and web applications
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
----
 
 ## ✦ About Me
 
@@ -24,7 +26,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
 - 🎨 Interested in UI / UX and visual identity
 - ⚡ Building projects to improve HTML, CSS and JavaScript skills
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
+</p>
 
 ## 🛠️ Technologies & Tools
 
@@ -46,7 +50,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
+</p>
 
 ## 📚 Currently Learning
 
@@ -55,7 +61,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
+</p>
 
 ## ✦ GitHub Stats
 
@@ -63,7 +71,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phel-lip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
+</p>
 
 ## ✦ Portfolio
 
@@ -75,7 +85,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
   🔗 https://phel-lip.github.io/portfolio-dev/
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
+</p>
 
 ## ✦ Contact
 
@@ -91,7 +103,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
+</p>
 
 <div align="center">
 
