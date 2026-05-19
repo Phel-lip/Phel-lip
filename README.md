@@ -8,10 +8,57 @@
   ☕ Focused on interactive interfaces, user experience and web applications
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,figma" />
-</p>
+---
 
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" />
+      <br>HTML5
+    </td>
+
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" />
+      <br>CSS3
+    </td>
+
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" />
+      <br>JavaScript
+    </td>
+
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45px" />
+      <br>TypeScript
+    </td>
+
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" />
+      <br>Git
+    </td>
+
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" />
+      <br>GitHub
+    </td>
+
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45px" />
+      <br>VS Code
+    </td>
+
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45px" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+</div>
 ## ✦ About Me
 
 ```txt
