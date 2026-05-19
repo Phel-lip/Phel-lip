@@ -8,10 +8,10 @@
   ☕ Focused on interactive interfaces, user experience and web applications
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2&section=header" width="100%" />
-</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
+</p>
 ---
 
 ## ✦ About Me
