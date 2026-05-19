@@ -12,7 +12,7 @@ Where there is desire, there will be a flame.
 ---
 
 <div align="center">
-  <img src="./assets/banner-fire.png" width="100%" />
+  <img src="./banner-fire.png" width="100%" />
 </div>
 
 <h3 align="center">
