@@ -12,16 +12,6 @@
   ☕ Focused on interactive interfaces, user experience and web applications
 </p>
 
-<div align="center">
-
-<img src="./dabi-yes.gif" width="100%" height="260px" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1500&color=7DD3FC&center=true&vCenter=true&repeat=true&width=1000&lines=Where+there+is+desire,+there+will+be+a+flame." />
-
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
