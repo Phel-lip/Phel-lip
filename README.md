@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=32&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Where+there+is+desire%2C;there+will+be+a+flame." />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1500&color=7DD3FC&center=true&vCenter=true&repeat=true&width=1000&lines=Where+there+is+desire,+there+will+be+a+flame." />
 
 </div>
 
