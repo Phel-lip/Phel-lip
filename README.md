@@ -12,12 +12,17 @@ Where there is desire, there will be a flame.
 ---
 
 <div align="center">
-  <img src="./banner-fire.png" width="100%" />
-</div>
 
-<h3 align="center">
-  Where there is desire, there will be a flame.
-</h3>
+<img src="./dabi-yes.gif" width="100%" />
+
+<h2 style="margin-top:-120px; color:white;">
+Where there is desire,<br>
+there will be a flame.
+</h2>
+
+<br><br><br><br>
+
+</div>
 
 
 ## ✦ About Me
