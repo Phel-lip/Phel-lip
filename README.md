@@ -8,14 +8,6 @@
   ☕ Focused on interactive interfaces, user experience and web applications
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=4500&pause=1500&color=7DD3FC&center=true&vCenter=true&repeat=true&width=900&lines=Where+there+is+desire,+there+will+be+a+flame." />
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,figma" />
 </p>
