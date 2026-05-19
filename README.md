@@ -11,11 +11,7 @@ Where there is desire, there will be a flame.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Where there is desire,
-there will be a flame.&fontAlign=50&fontAlignY=40&color=0:0B1120,100:06B6D4&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Interactive%20Interfaces&fontAlign=50&fontAlignY=40&color=0:0B1120,100:06B6D4&fontColor=ffffff&animation=fadeIn" width="100%" />
 <br>
 
 ## ✦ About Me
