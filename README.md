@@ -1,7 +1,7 @@
 <h1 align="center">Phellip</h1>
 
 <p align="center">
-  Front-End Developer • Digital Games Student • UI Lover 📍 Brasil
+  Front-End Developer • Digital Games Student • UI Lover 📍 Brazil
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 ### 🔹 Front-End
 
@@ -33,7 +33,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🔹 Ferramentas
+### 🔹 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -44,7 +44,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
 
 ---
 
-## 📚 Tecnologias em Aprendizado
+## 📚 Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -53,8 +53,10 @@ Currently studying JavaScript and TypeScript while building personal projects.
 
 ---
 
+## ✦ GitHub Stats
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Phel-lip&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=c9d1d9&icon_color=38BDF8" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Phel-lip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=38BDF8" />
 </p>
 
 ---
@@ -65,10 +67,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="./preview-portfolio.png" width="85%" />
 </p>
 
-🔗 Portfolio Website  
-https://phel-lip.github.io/portfolio-dev/
-
-</div>
+<p align="center">
+  🔗 https://phel-lip.github.io/portfolio-dev/
+</p>
 
 ---
 
@@ -90,6 +91,6 @@ https://phel-lip.github.io/portfolio-dev/
 
 <div align="center">
 
-<i>"Design is also storytelling."</i>
+<i>"Interfaces should feel alive."</i>
 
 </div>
