@@ -1,24 +1,24 @@
-# <div align="center">Phellip</div>
+<h1 align="center">Phellip</h1>
 
-<div align="center">
+<p align="center">
+  Front-End Developer • Digital Games Student • UI Lover 📍 Brasil
+</p>
 
-Front-End Developer • Digital Games Student • UI Lover 📍 Brasil <br>
-☕ Focused on interactive interfaces, user experience and web applications
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./dabi-yes.gif" width="100%" height="260px" />
+<p align="center">
+  ☕ Focused on interactive interfaces, user experience and web applications
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1500&color=7DD3FC&center=true&vCenter=true&repeat=true&width=1000&lines=Where+there+is+desire,+there+will+be+a+flame." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=4500&pause=1500&color=7DD3FC&center=true&vCenter=true&repeat=true&width=900&lines=Where+there+is+desire,+there+will+be+a+flame." />
+</p>
 
-</div>
+<br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,figma" />
+</p>
 
 ## ✦ About Me
 
