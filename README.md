@@ -61,7 +61,9 @@ Currently studying JavaScript and TypeScript while building personal projects.
 
 ## ✦ Portfolio
 
-<div align="center">
+<p align="center">
+  <img src="./preview-portfolio.png" width="85%" />
+</p>
 
 🔗 Portfolio Website  
 https://phel-lip.github.io/portfolio-dev/
