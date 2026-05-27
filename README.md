@@ -21,7 +21,7 @@
 Focado em desenvolvimento front-end, design visual e interfaces imersivas.  
 Atualmente estudando React enquanto desenvolvo projetos pessoais.
 
-- 🎮 Estudante de Jogos Digitais
+- 🎮 Estudante de Jogos Digitais - IFBA
 - 💻 Estudando Desenvolvimento Front-End
 - 🎨 Interesse em UI / UX e identidade visual
 - ⚡ Criando projetos para evoluir minhas habilidades em HTML, CSS e JavaScript
