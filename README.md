@@ -19,7 +19,7 @@
 ## ✦ Sobre Mim
 
 Focado em desenvolvimento front-end, design visual e interfaces imersivas.  
-Atualmente estudando JavaScript e TypeScript enquanto desenvolvo projetos pessoais.
+Atualmente estudando React enquanto desenvolvo projetos pessoais.
 
 - 🎮 Estudante de Jogos Digitais
 - 💻 Estudando Desenvolvimento Front-End
