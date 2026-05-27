@@ -2,35 +2,35 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
 </p>
 
-<h1 align="center">Phellip | Front-End Developer em construção</h1>
+<h1 align="center">Phellip | Desenvolvedor Front-End em construção</h1>
 
 <p align="center">
-  Digital Games Student • UI Lover 📍 Brazil
+  Estudante de Jogos Digitais • Apaixonado por UI 📍 Brasil
 </p>
 
 <p align="center">
-  ☕ Focused on interactive interfaces, user experience and web applications
+  ☕ Focado em interfaces interativas, experiência do usuário e aplicações web
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-## ✦ About Me
+## ✦ Sobre Mim
 
-Focused on front-end development, visual design and immersive interfaces.  
-Currently studying JavaScript and TypeScript while building personal projects.
+Focado em desenvolvimento front-end, design visual e interfaces imersivas.  
+Atualmente estudando JavaScript e TypeScript enquanto desenvolvo projetos pessoais.
 
-- 🎮 Digital Games student
-- 💻 Studying Front-End Development
-- 🎨 Interested in UI / UX and visual identity
-- ⚡ Building projects to improve HTML, CSS and JavaScript skills
+- 🎮 Estudante de Jogos Digitais
+- 💻 Estudando Desenvolvimento Front-End
+- 🎨 Interesse em UI / UX e identidade visual
+- ⚡ Criando projetos para evoluir minhas habilidades em HTML, CSS e JavaScript
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias & Ferramentas
 
 ### 🔹 Front-End
 
@@ -40,7 +40,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 🔹 Tools
+### 🔹 Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -53,7 +53,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-## 📚 Currently Learning
+## 📚 Atualmente Estudando
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -65,7 +65,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-## ✦ Portfolio
+## ✦ Portfólio
 
 <p align="center">
   🔗 https://phel-lip.github.io/portfolio-dev/
@@ -75,7 +75,7 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-## ✦ Contact
+## ✦ Contato
 
 <div align="center">
 
@@ -87,6 +87,10 @@ Currently studying JavaScript and TypeScript while building personal projects.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="thasso2011@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 <p align="center">
@@ -95,6 +99,6 @@ Currently studying JavaScript and TypeScript while building personal projects.
 
 <div align="center">
 
-<i>"Interfaces should feel alive."</i>
+<i>"Interfaces devem transmitir vida."</i>
 
 </div>
