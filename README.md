@@ -2,18 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
 </p>
 
-<h1 align="center">Phellip | Desenvolvedor Web</h1>
+<h1 align="center">Phellip | Desenvolvedor Full Stack</h1>
 
 <p align="center">
 Formando em Jogos Digitais • IFBA • Brasil 🇧🇷
 </p>
 
 <p align="center">
-Em transição para o desenvolvimento web com foco em Front-End.
+Desenvolvedor Full Stack com foco em experiência do usuário e aplicações web modernas.
 </p>
 
 <p align="center">
-Interesse em interfaces interativas, UX e aplicações modernas.
+React • ASP.NET Core • PostgreSQL • JavaScript • TypeScript
 </p>
 
 <p align="center">
@@ -22,18 +22,19 @@ Interesse em interfaces interativas, UX e aplicações modernas.
 
 # ✦ Sobre Mim
 
-Sou formando em Jogos Digitais pelo IFBA e atualmente estou em transição para o desenvolvimento web.
+Sou formando em Jogos Digitais pelo IFBA e migrei para o desenvolvimento web após perceber que meu maior interesse sempre esteve na criação de interfaces, sistemas e experiências para usuários.
 
-Minha experiência com desenvolvimento de jogos despertou interesse pela construção de interfaces e experiências interativas, o que motivou minha migração para aplicações web.
+Hoje desenvolvo aplicações Full Stack utilizando React, ASP.NET Core e PostgreSQL, aplicando conceitos de arquitetura cliente-servidor, APIs REST, autenticação JWT e deploy em ambiente de produção.
 
-Hoje desenvolvo projetos práticos utilizando HTML, CSS, JavaScript e também venho aprofundando conhecimentos em React enquanto amplio minha experiência com aplicações Full Stack utilizando ASP.NET Core e PostgreSQL.
+Minha formação em desenvolvimento de jogos continua influenciando meu trabalho, principalmente na forma como penso em experiência do usuário, gamificação e design de produto.
 
 ---
 
 - 🎮 Formação em Jogos Digitais (IFBA)
-- 💻 Desenvolvimento Web
-- 🎨 Interesse em UX/UI
-- 🚀 Projetos publicados em produção
+- 💻 Desenvolvimento Full Stack
+- 🎨 Foco em UX e Design de Produto
+- 🔐 Experiência com autenticação JWT
+- ☁️ Aplicações publicadas em produção (Render + GitHub Pages + Neon)
 - 📚 Atualmente aprofundando React e TypeScript
 
 <p align="center">
@@ -70,6 +71,12 @@ Hoje desenvolvo projetos práticos utilizando HTML, CSS, JavaScript e também ve
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
 </p>
 
 ---
@@ -87,6 +94,10 @@ Hoje desenvolvo projetos práticos utilizando HTML, CSS, JavaScript e também ve
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
@@ -106,7 +117,7 @@ Hoje desenvolvo projetos práticos utilizando HTML, CSS, JavaScript e também ve
 
 </p>
 
-Além dos estudos, venho aplicando esses conhecimentos em projetos próprios para consolidar arquitetura de aplicações modernas e boas práticas de desenvolvimento.
+Além dos estudos, continuo desenvolvendo projetos próprios para aprofundar arquitetura de software, boas práticas de desenvolvimento e construção de aplicações Full Stack.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
@@ -121,7 +132,7 @@ Além dos estudos, venho aplicando esses conhecimentos em projetos próprios par
 </p>
 
 <p align="center">
-Projetos desenvolvidos durante minha transição de Game Development para Desenvolvimento Web.
+Projetos Full Stack desenvolvidos com foco em experiência do usuário, arquitetura moderna e aplicações publicadas em produção.
 </p>
 
 <p align="center">
