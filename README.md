@@ -71,12 +71,6 @@ Minha formação em desenvolvimento de jogos continua influenciando meu trabalho
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
 </p>
 
 ---
@@ -94,10 +88,6 @@ Minha formação em desenvolvimento de jogos continua influenciando meu trabalho
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
