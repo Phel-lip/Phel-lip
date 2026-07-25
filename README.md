@@ -129,12 +129,6 @@ Além dos estudos, continuo desenvolvendo projetos próprios para aprofundar arq
 
 ### https://phel-lip.github.io/portfolio-dev/
 
-</p>
-
-<p align="center">
-Projetos Full Stack desenvolvidos com foco em experiência do usuário, arquitetura moderna e aplicações publicadas em produção.
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
