@@ -9,11 +9,11 @@ Formando em Jogos Digitais • IFBA • Brasil 🇧🇷
 </p>
 
 <p align="center">
-Desenvolvedor Full Stack com foco em experiência do usuário e aplicações web modernas.
+Desenvolvedor Full Stack com foco em desenvolvimento web e produtos digitais.
 </p>
 
 <p align="center">
-React • ASP.NET Core • PostgreSQL • JavaScript • TypeScript
+HTML • CSS • JavaScript • Node.js • C#/.NET • PostgreSQL
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@ React • ASP.NET Core • PostgreSQL • JavaScript • TypeScript
 
 # ✦ Sobre Mim
 
-Sou formando em Jogos Digitais pelo IFBA e migrei para o desenvolvimento web após perceber que meu maior interesse sempre esteve na criação de interfaces, sistemas e experiências para usuários.
+Sou formando em Jogos Digitais pelo IFBA e direciono minha carreira para o desenvolvimento web.
 
-Hoje desenvolvo aplicações Full Stack utilizando React, ASP.NET Core e PostgreSQL, aplicando conceitos de arquitetura cliente-servidor, APIs REST, autenticação JWT e deploy em ambiente de produção.
+Construo aplicações e interfaces web utilizando tecnologias de Front-End, Back-End e bancos de dados, com experiência em APIs REST, autenticação, CRUD e deploy de aplicações.
 
-Minha formação em desenvolvimento de jogos continua influenciando meu trabalho, principalmente na forma como penso em experiência do usuário, gamificação e design de produto.
+Minha formação em Jogos Digitais também contribui para minha forma de pensar interfaces interativas e produtos digitais, mantendo o foco atual no desenvolvimento de software.
 
 ---
 
 - 🎮 Formação em Jogos Digitais (IFBA)
 - 💻 Desenvolvimento Full Stack
-- 🎨 Foco em UX e Design de Produto
-- 🔐 Experiência com autenticação JWT
-- ☁️ Aplicações publicadas em produção (Render + GitHub Pages + Neon)
-- 📚 Atualmente aprofundando React e TypeScript
+- 🌐 Desenvolvimento de aplicações web
+- 🔌 APIs REST e integração entre sistemas
+- 🗄️ PostgreSQL e manipulação de dados
+- ☁️ Deploy de aplicações web
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
@@ -53,10 +53,6 @@ Minha formação em desenvolvimento de jogos continua influenciando meu trabalho
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 </p>
 
 ---
@@ -64,6 +60,8 @@ Minha formação em desenvolvimento de jogos continua influenciando meu trabalho
 ## Back-End / Dados
 
 <p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
@@ -85,11 +83,7 @@ Minha formação em desenvolvimento de jogos continua influenciando meu trabalho
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 </p>
 
@@ -97,17 +91,17 @@ Minha formação em desenvolvimento de jogos continua influenciando meu trabalho
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-# 📚 Atualmente aprofundando
+# 📚 Conhecimentos
 
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-</p>
-
-Além dos estudos, continuo desenvolvendo projetos próprios para aprofundar arquitetura de software, boas práticas de desenvolvimento e construção de aplicações Full Stack.
+- APIs REST
+- Autenticação JWT
+- CRUD
+- Interfaces responsivas
+- Manipulação do DOM
+- Deploy de aplicações web
+- Lógica de programação
+- Algoritmos
+- Git e GitHub
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
@@ -117,7 +111,11 @@ Além dos estudos, continuo desenvolvendo projetos próprios para aprofundar arq
 
 <p align="center">
 
-### https://phel-lip.github.io/portfolio-dev/
+<a href="https://phel-lip.github.io/portfolio-dev/">
+<img src="https://img.shields.io/badge/Acessar%20Portfólio-38BDF8?style=for-the-badge&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
