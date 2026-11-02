@@ -3,7 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
 </p>
 
-<h1 align="center">Olá, Prazer! Phellip 👋 | Desenvolvedor Full Stack</h1>
+<h1 align="center">Olá, prazer! Eu sou o Phellip 👋</h1>
+
+<p align="center">
+  <strong><code>Desenvolvedor Full Stack</code></strong>
+</p>
 
 <p align="center">
   <strong>React • C# / ASP.NET Core • PostgreSQL</strong>
@@ -21,8 +25,11 @@
 
 ### ✦ Sobre mim
 
-🎓 Formando em Jogos Digitais • IFBA • Brasil 🇧🇷 (carregando... fase bônus: TCC) 🧑🏻‍💻</br>
- • Em busca da primeira oportunidade de estágio em desenvolvimento web.
+Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou na reta final da graduação em **Jogos Digitais pelo Instituto Federal da Bahia (IFBA)**. 🎓
+
+*Carregando... fase bônus: TCC* 🧑🏻‍💻
+
+Tenho interesse em desenvolvimento web, interfaces interativas e aplicações Full Stack. Atualmente, busco uma oportunidade de estágio em desenvolvimento de software.
 
 ### 🛠️ Tecnologias
 
@@ -60,6 +67,29 @@
 ### 📚 Estudando
 
 - **React** — aprofundando componentes, estados e renderização de listas. <img align="center" alt="React" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
+</p>
+
+### 📊 Estatísticas do GitHub
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=Phel-lip&theme=tokyonight&hide_border=true"
+        alt="Estatísticas de contribuições no GitHub"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phel-lip&theme=tokyonight"
+        alt="Linguagens utilizadas nos repositórios"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
