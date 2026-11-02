@@ -5,7 +5,7 @@
 
 <h1 align="center">Olá, prazer! Eu sou o Phellip 👋</h1>
 
-<p align="center">
+<p align="left">
   <strong><code>Desenvolvedor Full Stack</code></strong>
 </p>
 
