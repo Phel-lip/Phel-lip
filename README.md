@@ -6,17 +6,7 @@
 <h1 align="center">Olá, Prazer! Phellip 👋 | Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  🎓 Formando em Jogos Digitais • IFBA • Brasil 🇧🇷
-  <br>
-  (carregando... fase bônus: TCC) 🧑🏻‍💻
-</p>
-
-<p align="center">
   <strong>React • C# / ASP.NET Core • PostgreSQL</strong>
-</p>
-
-<p align="center">
-  Em busca da primeira oportunidade de estágio em desenvolvimento web.
 </p>
 
 <p align="center">
@@ -31,9 +21,13 @@
 
 ### ✦ Sobre mim
 
-Sou estudante de **Jogos Digitais pelo IFBA**, com foco em **desenvolvimento web**.
-
-Desenvolvo interfaces e aplicações com **React, C# / ASP.NET Core e PostgreSQL**, explorando APIs REST, operações CRUD e integração entre Front-end e Back-end.
+🎓 Formando em Jogos Digitais • IFBA • Brasil 🇧🇷
+  <br>
+  (carregando... fase bônus: TCC) 🧑🏻‍💻
+  
+<p align="center">
+  Em busca da primeira oportunidade de estágio em desenvolvimento web.
+</p>
 
 ### 🛠️ Tecnologias
 
