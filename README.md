@@ -3,21 +3,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
 </p>
 
-<h1 align="center">Olá, prazer! Eu sou o Phellip 👋</h1>
+# Olá, prazer! Eu sou o Phellip 👋
+
+**`Desenvolvedor Full Stack`**
 
 Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou na reta final da graduação em **Jogos Digitais pelo Instituto Federal da Bahia (IFBA)**. 🎓 *Carregando... fase bônus: TCC* 🧑🏻‍💻
 
 <p align="left">
-  <strong><code>Desenvolvedor Full Stack</code></strong>
-</p>
-
-<p align="center">
-  <strong>React • C# / ASP.NET Core • PostgreSQL</strong>
-</p>
-
-<p align="center">
+  <a href="https://www.linkedin.com/in/thassoholanda/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:thasso2011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Gmail"/>
+  </a>
   <a href="https://phel-lip.github.io/portfolio-dev/">
-    <img src="https://img.shields.io/badge/Portfólio-38BDF8?style=for-the-badge&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfólio-white?style=for-the-badge&logo=globe&logoColor=38BDF8" alt="Portfólio"/>
+  </a>
+  <a href="https://phel-lip.github.io/portfolio-dev/Thasso_Holanda_CV.pdf">
+    <img src="https://custom-icon-badges.demolab.com/badge/CV-white?style=for-the-badge&logo=file&logoColor=38BDF8" alt="Currículo"/>
   </a>
 </p>
 
@@ -25,7 +28,7 @@ Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou na reta final da gradu
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 #### Front-end
 
@@ -58,52 +61,29 @@ Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou na reta final da gradu
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-### 📚 Estudando
+### Estudando
 
-- **React** — aprofundando componentes, estados e renderização de listas. <img align="center" alt="React" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+- **React** — componentes, estados e renderização de listas. <img align="center" alt="React" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-### 📊 Estatísticas do GitHub
+### Estatísticas
 
-<table align="center">
+<table>
   <tr>
     <td>
       <img
         src="https://streak-stats.demolab.com?user=Phel-lip&theme=tokyonight&hide_border=true"
-        alt="Estatísticas de contribuições no GitHub"
+        alt="Sequência de contribuições no GitHub"
       />
     </td>
     <td>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phel-lip&theme=tokyonight"
-        alt="Linguagens utilizadas nos repositórios"
+        alt="Linguagens dos repositórios"
       />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
-</p>
-
-### 📬 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thassoholanda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:thasso2011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
-</p>
-
-<div align="center">
-  <em>"Boas interfaces não apenas funcionam — elas tornam a tecnologia mais intuitiva para quem a utiliza."</em>
-</div>
