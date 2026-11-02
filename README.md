@@ -5,7 +5,7 @@
 
 # Olá, prazer! Eu sou o Phellip 👋
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full Stack`** **`Game Dev`**
 
 Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou concluindo a graduação em **Jogos Digitais pelo Instituto Federal da Bahia (IFBA)**. 🎓 *Carregando... fase bônus: TCC* 🧑🏻‍💻
 
