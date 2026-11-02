@@ -7,7 +7,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou na reta final da graduação em **Jogos Digitais pelo Instituto Federal da Bahia (IFBA)**. 🎓 *Carregando... fase bônus: TCC* 🧑🏻‍💻
+Me chamo Thasso Felipe de Holanda, sou de Alagoas e atualmente estou me formando em **Jogos Digitais pelo Instituto Federal da Bahia (IFBA)**. 🎓 *Carregando... fase bônus: TCC* 🧑🏻‍💻
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thassoholanda/">
