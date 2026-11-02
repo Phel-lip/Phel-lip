@@ -5,6 +5,8 @@
 
 <h1 align="center">Olá, prazer! Eu sou o Phellip 👋</h1>
 
+Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou na reta final da graduação em **Jogos Digitais pelo Instituto Federal da Bahia (IFBA)**. 🎓 *Carregando... fase bônus: TCC* 🧑🏻‍💻
+
 <p align="left">
   <strong><code>Desenvolvedor Full Stack</code></strong>
 </p>
@@ -22,14 +24,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
-
-### ✦ Sobre mim
-
-Me chamo Thasso Felipe de Holanda, sou de Alagoas e estou na reta final da graduação em **Jogos Digitais pelo Instituto Federal da Bahia (IFBA)**. 🎓
-
-*Carregando... fase bônus: TCC* 🧑🏻‍💻
-
-Tenho interesse em desenvolvimento web, interfaces interativas e aplicações Full Stack. Atualmente, busco uma oportunidade de estágio em desenvolvimento de software.
 
 ### 🛠️ Tecnologias
 
