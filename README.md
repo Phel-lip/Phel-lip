@@ -21,7 +21,7 @@
 
 ### ✦ Sobre mim
 
-🎓 Formando em Jogos Digitais • IFBA • Brasil 🇧🇷 (carregando... fase bônus: TCC) 🧑🏻‍💻
+🎓 Formando em Jogos Digitais • IFBA • Brasil 🇧🇷 (carregando... fase bônus: TCC) 🧑🏻‍💻</br>
  • Em busca da primeira oportunidade de estágio em desenvolvimento web.
 
 ### 🛠️ Tecnologias
