@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1120,50:38BDF8,100:0B1120&section=header" width="100%" />
 </p>
 
-<h1 align="center">Olá, Prazer! Phellip 🖐️ | Desenvolvedor Full Stack</h1>
+<h1 align="center">Olá, Prazer! Phellip 👋 | Desenvolvedor Full Stack</h1>
 
 <p align="center">
   🎓 Formando em Jogos Digitais • IFBA • Brasil 🇧🇷
