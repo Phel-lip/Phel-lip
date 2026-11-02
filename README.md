@@ -56,29 +56,6 @@ Desenvolvo interfaces e aplicações utilizando **React, C# / ASP.NET Core e Pos
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
 </p>
 
-### 🚀 Projeto em destaque — DailyXP Core
-
-Gerenciador de hábitos Full Stack com **React, ASP.NET Core e PostgreSQL**. Inclui CRUD, gamificação com XP e persistência de dados.
-
-<p align="center">
-  <a href="https://phel-lip.github.io/dailyxp-core/">
-    <img src="https://raw.githubusercontent.com/Phel-lip/dailyxp-core/main/dailyxp.png" alt="DailyXP Core - Prévia da aplicação" width="85%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://phel-lip.github.io/dailyxp-core/">
-    <img src="https://img.shields.io/badge/Ver_Demo-38BDF8?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://github.com/Phel-lip/dailyxp-core">
-    <img src="https://img.shields.io/badge/Código_Fonte-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:0B1120&height=2" width="100%" />
-</p>
-
 ### 📬 Contato
 
 <p align="center">
