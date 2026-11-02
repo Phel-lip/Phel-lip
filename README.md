@@ -16,9 +16,7 @@
 </p>
 
 <p align="center">
-  Desenvolvimento web, interfaces interativas e aplicações Full Stack.
-  <br>
-  Em busca da primeira oportunidade de estágio em desenvolvimento de software.
+  Em busca da primeira oportunidade de estágio em desenvolvimento web.
 </p>
 
 <p align="center">
